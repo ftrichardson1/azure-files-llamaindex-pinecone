@@ -1,0 +1,11 @@
+azure-identity
+azure-storage-file-share
+python-dotenv
+llama-index-core
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+llama-index-vector-stores-pinecone
+llama-index-readers-file
+pinecone
+pypdf
+docx2txt
